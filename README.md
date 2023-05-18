@@ -6,7 +6,7 @@
 ```
 pkg update && pkg upgrade
 pkg install python
-git clone https://github.com/xyborglogicxv/ScriptKita
+git clone https://github.com/XyborgLogic/ScriptKita
 cd ScriptKita
 pip install -r asset/requirements.txt
 python xyborglogicxv.py
