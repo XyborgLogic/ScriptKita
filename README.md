@@ -1,7 +1,7 @@
 - Im xyborglogicxv
 - Im Recoder Not Author 
 - Jangan Lupa Kasih Bintang 😀
-- Thanks siapa author dan perecode sebelum gw (rfn eksdi)
+- Makasih teruntuk author dan perecode sebelum gw (rfn eksdi)
 ### Cara Install
 ```
 pkg update && pkg upgrade
